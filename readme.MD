@@ -72,9 +72,8 @@ Enhances edges using a sharpening kernel.
 
 ```
 .
-├── main.py
-├── README.md
-└── image.jpg
+├── imageclean.py
+└── README.md
 ```
 
 ---
@@ -96,7 +95,7 @@ my_image_path = "your_image_path_here"
 ### 3. Run the script
 
 ```bash
-python main.py
+python imageclean.py
 ```
 
 ---
